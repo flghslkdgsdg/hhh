@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const developers = ['427611667631964180'];
+const developers = ['244547060257390592'];
 
 
 client.on('ready', () => {
